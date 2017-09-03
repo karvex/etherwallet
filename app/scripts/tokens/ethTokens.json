@@ -156,6 +156,12 @@
     "type":"default"
   },
   {
+    "address":"0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+    "symbol":"CTR",
+    "decimal":18,
+    "type":"default"
+  },  
+  {
     "address":"0xE4c94d45f7Aef7018a5D66f44aF780ec6023378e",
     "symbol":"CryptoCarbon",
     "decimal":6,
